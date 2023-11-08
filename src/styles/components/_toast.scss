@@ -1,0 +1,17 @@
+.toast-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  z-index: 1000;
+}
+
+.toast-successful {
+  background-color: rgb(55, 92, 55);
+}
+
+.toast-error {
+  background-color: rgb(180, 65, 65);
+}
